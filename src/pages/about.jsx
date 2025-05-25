@@ -100,7 +100,7 @@ import { Link, Outlet } from 'react-router-dom';const About = () => {
         <div className="text-center">
           <div className="w-32 h-32 rounded-full mx-auto mb-6 overflow-hidden">
                 <img
-                  src="https://via.placeholder.com/128"
+                  src="../assets/images/LENNOX.jpg"
                   alt="Founder"
                   className="w-full h-full object-cover"
                 />
