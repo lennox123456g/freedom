@@ -47,7 +47,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Call Us',
-      info: '+1 (555) 123-4567',
+      info: '+256-700811',
       subInfo: 'Mon-Fri 8AM-6PM',
     },
     {
@@ -59,8 +59,8 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Visit Us',
-      info: '123 Water Street',
-      subInfo: 'AquaCity, AC 12345',
+      info: 'Bugembe ',
+      subInfo: 'Jinja City, Uganda',
     },
     {
       icon: Clock,
@@ -286,7 +286,7 @@ const Contact = () => {
               Don't wait - call us now!
             </p>
             <a 
-              href="tel:+15551234567"
+              href="tel:+256700811528"
               className="inline-flex items-center space-x-2 bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors"
             >
               <Phone size={20} />
