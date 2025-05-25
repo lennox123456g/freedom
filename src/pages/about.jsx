@@ -98,8 +98,12 @@ import { Link, Outlet } from 'react-router-dom';const About = () => {
       </div>
       <div className="bg-white rounded-2xl shadow-xl p-12 max-w-4xl mx-auto">
         <div className="text-center">
-          <div className="w-32 h-32 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-full mx-auto mb-6 flex items-center justify-center">
-            <span className="text-3xl font-bold text-white">LM</span>
+          <div className="w-32 h-32 rounded-full mx-auto mb-6 overflow-hidden">
+                <img
+                  src="https://via.placeholder.com/128"
+                  alt="Founder"
+                  className="w-full h-full object-cover"
+                />
           </div>
           <h3 className="text-3xl font-bold text-gray-900 mb-4">Lennox Mugumira</h3>
           <p className="text-xl text-gray-600 mb-6"> BeVisioneers Mercedes-Benz Fellow</p>
