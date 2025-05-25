@@ -132,4 +132,4 @@ import { Link, Outlet } from 'react-router-dom';const About = () => {
     </div>
   </div>
 </div>
-
+export default About;
