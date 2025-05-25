@@ -102,7 +102,7 @@ import { Link, Outlet } from 'react-router-dom';const About = () => {
             <span className="text-3xl font-bold text-white">LM</span>
           </div>
           <h3 className="text-3xl font-bold text-gray-900 mb-4">Lennox Mugumira</h3>
-          <p className="text-xl text-gray-600 mb-6">Civil Engineer & BeVisioneers Mercedes-Benz Fellow</p>
+          <p className="text-xl text-gray-600 mb-6"> BeVisioneers Mercedes-Benz Fellow</p>
           <p className="text-gray-700 leading-relaxed max-w-3xl mx-auto mb-8">
             A recent graduate with a Diploma in Civil Engineering from Makerere University, complemented by 
             self-taught skills in data science, app development, and web development. As a BeVisioneers 
