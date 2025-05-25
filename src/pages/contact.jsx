@@ -282,7 +282,7 @@ const Contact = () => {
           <div className="bg-gradient-to-r from-blue-600 to-cyan-600 rounded-xl p-8 max-w-2xl mx-auto text-white">
             <h3 className="text-2xl font-bold mb-4">Emergency Water Issues?</h3>
             <p className="mb-6 text-blue-100">
-              We offer 24/7 emergency service for urgent water treatment problems. 
+              We offer 24/7 emergency service for urgent water  problems. 
               Don't wait - call us now!
             </p>
             <a 
