@@ -47,7 +47,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Call Us',
-      info: '+256-700811',
+      info: '+256-700811528',
       subInfo: 'Mon-Fri 8AM-6PM',
     },
     {
