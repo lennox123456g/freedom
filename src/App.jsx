@@ -78,7 +78,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="text-blue-400" size={16} />
-                <span className="text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-gray-300">+256 700811528</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="text-blue-400" size={16} />
@@ -87,8 +87,8 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="text-blue-400 mt-1" size={16} />
                 <span className="text-gray-300">
-                  123 Water Street<br />
-                  AquaCity, AC 12345
+                  Bugembe<br />
+                  Jinja City, Uganda
                 </span>
               </div>
             </div>
